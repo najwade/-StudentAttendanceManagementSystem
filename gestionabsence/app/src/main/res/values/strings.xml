@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">G-absence</string>
+    <string name="espace_professeur">Espace professeur</string>
+    <string name="espace_etudiant">Espace Etudiant</string>
+
+
+    <string-array name="modules">
+
+        <item>Programmation web</item>
+
+        <item>Architecture des ordinateurs</item>
+
+        <item>TEC</item>
+
+        <item>Anglais</item>
+
+        <item>Creation entreprise</item>
+
+        <item> Image Videos</item>
+
+    </string-array>
+
+</resources>
